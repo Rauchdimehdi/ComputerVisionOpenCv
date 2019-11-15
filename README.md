@@ -1,9 +1,9 @@
 # ComputerVisionOpenCv
 -In this project you will find 
-## Image Processing
+>Image Processing
 
-## Image detection
+>Image detection
 
-## Video Analysis
+>Video Analysis
 
-## Face detection-image
+>Face detection-image
