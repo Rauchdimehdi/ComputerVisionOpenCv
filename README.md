@@ -1,11 +1,8 @@
 # ComputerVisionOpenCv
+-In this project you will find 
 ## Image Processing
 
-## Image Filtering
-
 ## Image detection
-
-## Feature Detection
 
 ## Video Analysis
 
